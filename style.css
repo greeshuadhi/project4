@@ -1,0 +1,33 @@
+/* sec3 */
+
+.inbox1{
+    background-image: url(obma.political.jpg);
+    height: 500px;
+    background-size: cover;
+    margin-top: 10px ;
+    padding: 50px 10px ;
+}
+    
+    
+
+
+.inbox2{
+    background-color: rgba(43, 43, 155, 0.602);
+   height:300px;
+    width:550px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.p2{
+    font-weight: bold;
+}
+.line1{
+    height: 2px;
+    background-color: brown;
+    width: 100%;
+}
+.inbox5{
+    box-shadow: 5px 5px 10px black;
+    padding: 10px;
+}
